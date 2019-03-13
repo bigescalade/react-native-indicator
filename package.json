@@ -23,6 +23,6 @@
   },
   "homepage": "https://github.com/wangdicoder/react-native-indicator#readme",
   "dependencies": {
-    "prop-types": "^15.6.0"
+    "prop-types": "15.7.2"
   }
 }
